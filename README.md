@@ -12,8 +12,8 @@ This Python project generates a structured report for a given directory, includi
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/noahschlorf/Project-Reporter
+   cd Project-Reporter
    ```
 
 2. Run the script:
@@ -46,10 +46,3 @@ This Python project generates a structured report for a given directory, includi
 print('Hello World')
 ```
 ```
-
-## Requirements
-- Python 3.x
-
-## License
-MIT License
-
